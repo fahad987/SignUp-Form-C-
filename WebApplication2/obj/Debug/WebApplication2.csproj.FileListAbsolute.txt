@@ -1,0 +1,6 @@
+C:\Users\General-2\Desktop\Fahad\My Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\General-2\Desktop\Fahad\My Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\General-2\Desktop\Fahad\My Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\General-2\Desktop\Fahad\My Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\General-2\Desktop\Fahad\My Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\General-2\Desktop\Fahad\My Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
